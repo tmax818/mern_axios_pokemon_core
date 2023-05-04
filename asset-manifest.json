@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mern_axios_pokemon_core/static/css/main.073c9b0a.css",
+    "main.js": "/mern_axios_pokemon_core/static/js/main.2bb600eb.js",
+    "static/js/787.d2e7b7c0.chunk.js": "/mern_axios_pokemon_core/static/js/787.d2e7b7c0.chunk.js",
+    "static/media/logo.svg": "/mern_axios_pokemon_core/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mern_axios_pokemon_core/index.html",
+    "main.073c9b0a.css.map": "/mern_axios_pokemon_core/static/css/main.073c9b0a.css.map",
+    "main.2bb600eb.js.map": "/mern_axios_pokemon_core/static/js/main.2bb600eb.js.map",
+    "787.d2e7b7c0.chunk.js.map": "/mern_axios_pokemon_core/static/js/787.d2e7b7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2bb600eb.js"
+  ]
+}
